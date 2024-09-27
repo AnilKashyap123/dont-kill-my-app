@@ -1,4 +1,4 @@
----
+edh---
 manufacturer:
     - general
 ---
